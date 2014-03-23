@@ -1221,7 +1221,7 @@ show_about_dialog parent = do
       aboutDialogVersion   := "1.0",
       aboutDialogCopyright := "",
       aboutDialogComments  := "Se dispone de un diccionario de palabras del castellano (implementado con un trie) simples y ante una palabra nueva debe determinar si posiblemente pertenece al castellano o no. En el diccionario no aparecen ni los plurares, ni los cambios de genero ni los participios, etc. Las reglas del castellano para tales casos pueden simplificarse. Se incluirá en un programa que permita componer texto y que si no encuentra en el diccionario una de las palabras lo haga saber así como proponga palabras correctas similares (esto es, lo que hace cualquier comprobador de ortografía de un procesador de textos).",
-      aboutDialogWebsite   := "http://haskell.org/gtk2hs/"
+      aboutDialogWebsite   := "http://www.haskell.org/haskellwiki/Haskell"
     ]
   
   -- make the about dialog appear above the main window
